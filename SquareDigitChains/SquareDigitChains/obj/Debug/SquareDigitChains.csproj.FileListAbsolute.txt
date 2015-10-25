@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\SquareDigitChains\SquareDigitChains\bin\Debug\SquareDigitChains.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\SquareDigitChains\SquareDigitChains\obj\Debug\SquareDigitChains.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\SquareDigitChains\SquareDigitChains\bin\Debug\SquareDigitChains.exe
+c:\users\samuel\documents\visual studio 2013\Projects\SquareDigitChains\SquareDigitChains\bin\Debug\SquareDigitChains.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\SquareDigitChains\SquareDigitChains\obj\Debug\SquareDigitChains.exe
+c:\users\samuel\documents\visual studio 2013\Projects\SquareDigitChains\SquareDigitChains\obj\Debug\SquareDigitChains.pdb

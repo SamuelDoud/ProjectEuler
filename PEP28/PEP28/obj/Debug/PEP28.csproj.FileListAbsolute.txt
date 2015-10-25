@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\PEP28\PEP28\bin\Debug\PEP28.exe.config
+C:\Users\Samuel\documents\visual studio 2013\Projects\PEP28\PEP28\bin\Debug\PEP28.exe
+C:\Users\Samuel\documents\visual studio 2013\Projects\PEP28\PEP28\bin\Debug\PEP28.pdb
+C:\Users\Samuel\documents\visual studio 2013\Projects\PEP28\PEP28\obj\Debug\PEP28.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\documents\visual studio 2013\Projects\PEP28\PEP28\obj\Debug\PEP28.exe
+C:\Users\Samuel\documents\visual studio 2013\Projects\PEP28\PEP28\obj\Debug\PEP28.pdb

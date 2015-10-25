@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\PEP104CS\PEP104CS\bin\Debug\PEP104CS.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\PEP104CS\PEP104CS\bin\Debug\PEP104CS.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP104CS\PEP104CS\bin\Debug\PEP104CS.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\PEP104CS\PEP104CS\obj\Debug\PEP104CS.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\PEP104CS\PEP104CS\obj\Debug\PEP104CS.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP104CS\PEP104CS\obj\Debug\PEP104CS.pdb

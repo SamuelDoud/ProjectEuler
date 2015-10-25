@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\PEP371\PEP371\bin\Debug\PEP371.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\PEP371\PEP371\bin\Debug\PEP371.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP371\PEP371\bin\Debug\PEP371.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\PEP371\PEP371\obj\Debug\PEP371.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\PEP371\PEP371\obj\Debug\PEP371.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP371\PEP371\obj\Debug\PEP371.pdb

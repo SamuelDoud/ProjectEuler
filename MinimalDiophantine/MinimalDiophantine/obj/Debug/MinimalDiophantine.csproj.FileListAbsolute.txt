@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\MinimalDiophantine\MinimalDiophantine\bin\Debug\MinimalDiophantine.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\MinimalDiophantine\MinimalDiophantine\bin\Debug\MinimalDiophantine.exe
+c:\users\samuel\documents\visual studio 2013\Projects\MinimalDiophantine\MinimalDiophantine\bin\Debug\MinimalDiophantine.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\MinimalDiophantine\MinimalDiophantine\obj\Debug\MinimalDiophantine.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\MinimalDiophantine\MinimalDiophantine\obj\Debug\MinimalDiophantine.exe
+c:\users\samuel\documents\visual studio 2013\Projects\MinimalDiophantine\MinimalDiophantine\obj\Debug\MinimalDiophantine.pdb

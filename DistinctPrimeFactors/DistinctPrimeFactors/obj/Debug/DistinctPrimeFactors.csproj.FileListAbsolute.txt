@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\DistinctPrimeFactors\DistinctPrimeFactors\bin\Debug\DistinctPrimeFactors.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\DistinctPrimeFactors\DistinctPrimeFactors\obj\Debug\DistinctPrimeFactors.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\DistinctPrimeFactors\DistinctPrimeFactors\bin\Debug\DistinctPrimeFactors.exe
+c:\users\samuel\documents\visual studio 2013\Projects\DistinctPrimeFactors\DistinctPrimeFactors\bin\Debug\DistinctPrimeFactors.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\DistinctPrimeFactors\DistinctPrimeFactors\obj\Debug\DistinctPrimeFactors.exe
+c:\users\samuel\documents\visual studio 2013\Projects\DistinctPrimeFactors\DistinctPrimeFactors\obj\Debug\DistinctPrimeFactors.pdb

@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\PEP32\PEP32\bin\Debug\PEP32.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\PEP32\PEP32\obj\Debug\PEP32.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\PEP32\PEP32\bin\Debug\PEP32.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP32\PEP32\bin\Debug\PEP32.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\PEP32\PEP32\obj\Debug\PEP32.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP32\PEP32\obj\Debug\PEP32.pdb

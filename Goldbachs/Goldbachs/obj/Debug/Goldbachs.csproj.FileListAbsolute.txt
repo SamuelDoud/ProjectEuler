@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\Goldbachs\Goldbachs\bin\Debug\Goldbachs.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\Goldbachs\Goldbachs\bin\Debug\Goldbachs.exe
+c:\users\samuel\documents\visual studio 2013\Projects\Goldbachs\Goldbachs\bin\Debug\Goldbachs.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\Goldbachs\Goldbachs\obj\Debug\Goldbachs.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\Goldbachs\Goldbachs\obj\Debug\Goldbachs.exe
+c:\users\samuel\documents\visual studio 2013\Projects\Goldbachs\Goldbachs\obj\Debug\Goldbachs.pdb

@@ -1,0 +1,12 @@
+c:\users\samuel\documents\visual studio 2013\Projects\PEP26\PEP26\bin\Debug\PEP26.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\PEP26\PEP26\bin\Debug\PEP26.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP26\PEP26\bin\Debug\PEP26.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\PEP26\PEP26\obj\Debug\PEP26.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP26\PEP26\obj\Debug\PEP26.pdb
+C:\Users\Samuel\documents\visual studio 2013\Projects\PEP26\PEP26\obj\Debug\PEP26.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\GitHub\ProjectEuler\PEP26\PEP26\bin\Debug\PEP26.exe.config
+C:\Users\Samuel\Documents\GitHub\ProjectEuler\PEP26\PEP26\obj\Debug\PEP26.exe
+C:\Users\Samuel\Documents\GitHub\ProjectEuler\PEP26\PEP26\obj\Debug\PEP26.pdb
+C:\Users\Samuel\Documents\GitHub\ProjectEuler\PEP26\PEP26\bin\Debug\PEP26.exe
+C:\Users\Samuel\Documents\GitHub\ProjectEuler\PEP26\PEP26\bin\Debug\PEP26.pdb
+C:\Users\Samuel\Documents\GitHub\ProjectEuler\PEP26\PEP26\obj\Debug\PEP26.csprojResolveAssemblyReference.cache

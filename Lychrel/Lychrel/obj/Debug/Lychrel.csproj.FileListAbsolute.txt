@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\Lychrel\Lychrel\bin\Debug\Lychrel.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\Lychrel\Lychrel\obj\Debug\Lychrel.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\Lychrel\Lychrel\bin\Debug\Lychrel.exe
+c:\users\samuel\documents\visual studio 2013\Projects\Lychrel\Lychrel\bin\Debug\Lychrel.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\Lychrel\Lychrel\obj\Debug\Lychrel.exe
+c:\users\samuel\documents\visual studio 2013\Projects\Lychrel\Lychrel\obj\Debug\Lychrel.pdb

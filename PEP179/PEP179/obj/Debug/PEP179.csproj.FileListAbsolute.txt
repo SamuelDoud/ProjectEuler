@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\PEP179\PEP179\bin\Debug\PEP179.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\PEP179\PEP179\bin\Debug\PEP179.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP179\PEP179\bin\Debug\PEP179.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\PEP179\PEP179\obj\Debug\PEP179.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\PEP179\PEP179\obj\Debug\PEP179.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP179\PEP179\obj\Debug\PEP179.pdb

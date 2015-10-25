@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\DiophantineRecips1\DiophantineRecips1\bin\Debug\DiophantineRecips1.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\DiophantineRecips1\DiophantineRecips1\bin\Debug\DiophantineRecips1.exe
+c:\users\samuel\documents\visual studio 2013\Projects\DiophantineRecips1\DiophantineRecips1\bin\Debug\DiophantineRecips1.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\DiophantineRecips1\DiophantineRecips1\obj\Debug\DiophantineRecips1.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\DiophantineRecips1\DiophantineRecips1\obj\Debug\DiophantineRecips1.exe
+c:\users\samuel\documents\visual studio 2013\Projects\DiophantineRecips1\DiophantineRecips1\obj\Debug\DiophantineRecips1.pdb

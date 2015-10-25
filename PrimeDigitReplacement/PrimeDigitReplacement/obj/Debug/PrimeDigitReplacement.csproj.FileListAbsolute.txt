@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\PrimeDigitReplacement\PrimeDigitReplacement\bin\Debug\PrimeDigitReplacement.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\PrimeDigitReplacement\PrimeDigitReplacement\bin\Debug\PrimeDigitReplacement.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PrimeDigitReplacement\PrimeDigitReplacement\bin\Debug\PrimeDigitReplacement.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\PrimeDigitReplacement\PrimeDigitReplacement\obj\Debug\PrimeDigitReplacement.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\PrimeDigitReplacement\PrimeDigitReplacement\obj\Debug\PrimeDigitReplacement.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PrimeDigitReplacement\PrimeDigitReplacement\obj\Debug\PrimeDigitReplacement.pdb

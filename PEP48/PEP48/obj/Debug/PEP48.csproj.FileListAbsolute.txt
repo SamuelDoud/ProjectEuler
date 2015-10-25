@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\PEP48\PEP48\bin\Debug\PEP48.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\PEP48\PEP48\bin\Debug\PEP48.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP48\PEP48\bin\Debug\PEP48.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\PEP48\PEP48\obj\Debug\PEP48.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\PEP48\PEP48\obj\Debug\PEP48.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP48\PEP48\obj\Debug\PEP48.pdb

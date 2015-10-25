@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\PandigitalMultiples\PandigitalMultiples\bin\Debug\PandigitalMultiples.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\PandigitalMultiples\PandigitalMultiples\bin\Debug\PandigitalMultiples.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PandigitalMultiples\PandigitalMultiples\bin\Debug\PandigitalMultiples.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\PandigitalMultiples\PandigitalMultiples\obj\Debug\PandigitalMultiples.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\PandigitalMultiples\PandigitalMultiples\obj\Debug\PandigitalMultiples.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PandigitalMultiples\PandigitalMultiples\obj\Debug\PandigitalMultiples.pdb

@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\PEP33\PEP33\bin\Debug\PEP33.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\PEP33\PEP33\bin\Debug\PEP33.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP33\PEP33\bin\Debug\PEP33.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\PEP33\PEP33\obj\Debug\PEP33.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\PEP33\PEP33\obj\Debug\PEP33.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP33\PEP33\obj\Debug\PEP33.pdb

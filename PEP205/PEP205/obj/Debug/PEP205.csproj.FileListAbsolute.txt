@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\PEP205\PEP205\bin\Debug\PEP205.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\PEP205\PEP205\bin\Debug\PEP205.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP205\PEP205\bin\Debug\PEP205.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\PEP205\PEP205\obj\Debug\PEP205.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP205\PEP205\obj\Debug\PEP205.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\PEP205\PEP205\obj\Debug\PEP205.csprojResolveAssemblyReference.cache

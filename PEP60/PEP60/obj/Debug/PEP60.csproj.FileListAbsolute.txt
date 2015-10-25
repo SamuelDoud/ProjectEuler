@@ -1,0 +1,6 @@
+c:\users\samuel\documents\visual studio 2013\Projects\PEP60\PEP60\bin\Debug\PEP60.exe.config
+c:\users\samuel\documents\visual studio 2013\Projects\PEP60\PEP60\obj\Debug\PEP60.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2013\Projects\PEP60\PEP60\bin\Debug\PEP60.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP60\PEP60\bin\Debug\PEP60.pdb
+c:\users\samuel\documents\visual studio 2013\Projects\PEP60\PEP60\obj\Debug\PEP60.exe
+c:\users\samuel\documents\visual studio 2013\Projects\PEP60\PEP60\obj\Debug\PEP60.pdb
