@@ -1,0 +1,11 @@
+f:\users\sam\documents\visual studio 2015\Projects\SudokuProjectEuler\SudokuProjectEuler\bin\Debug\SudokuProjectEuler.exe.config
+f:\users\sam\documents\visual studio 2015\Projects\SudokuProjectEuler\SudokuProjectEuler\obj\Debug\SudokuProjectEuler.csprojResolveAssemblyReference.cache
+f:\users\sam\documents\visual studio 2015\Projects\SudokuProjectEuler\SudokuProjectEuler\bin\Debug\SudokuProjectEuler.exe
+f:\users\sam\documents\visual studio 2015\Projects\SudokuProjectEuler\SudokuProjectEuler\bin\Debug\SudokuProjectEuler.pdb
+f:\users\sam\documents\visual studio 2015\Projects\SudokuProjectEuler\SudokuProjectEuler\bin\Debug\SudokuSolver.dll
+f:\users\sam\documents\visual studio 2015\Projects\SudokuProjectEuler\SudokuProjectEuler\bin\Debug\SudokuSolver.pdb
+f:\users\sam\documents\visual studio 2015\Projects\SudokuProjectEuler\SudokuProjectEuler\obj\Debug\SudokuProjectEuler.exe
+f:\users\sam\documents\visual studio 2015\Projects\SudokuProjectEuler\SudokuProjectEuler\obj\Debug\SudokuProjectEuler.pdb
+F:\Users\Sam\Documents\GitHubVisualStudio\ProjectEuler\SudokuProjectEuler\SudokuProjectEuler\bin\Debug\SudokuProjectEuler.exe.config
+F:\Users\Sam\Documents\GitHubVisualStudio\ProjectEuler\SudokuProjectEuler\SudokuProjectEuler\obj\Debug\SudokuProjectEuler.exe
+F:\Users\Sam\Documents\GitHubVisualStudio\ProjectEuler\SudokuProjectEuler\SudokuProjectEuler\obj\Debug\SudokuProjectEuler.pdb
